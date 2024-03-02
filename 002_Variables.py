@@ -1,3 +1,7 @@
+#Aldo López Barrios
+#21310106   6E
+
+
 #Declarar variable(s)
 texto = "Hola mundo"
 
